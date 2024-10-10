@@ -25,6 +25,7 @@
     "simulation": "ts-node src/index.ts"
   },
   "dependencies": {
+    "@safe-global/protocol-kit": "^5.0.1",
     "@stellar/stellar-sdk": "^12.1.0",
     "dotenv": "^8.2.0",
     "stellar-hd-wallet": "^0.0.10"
