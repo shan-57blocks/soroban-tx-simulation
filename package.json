@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "@safe-global/protocol-kit": "^5.0.1",
+    "@safe-global/types-kit": "^1.0.0",
     "@stellar/stellar-sdk": "^12.1.0",
     "dotenv": "^8.2.0",
     "stellar-hd-wallet": "^0.0.10"
